@@ -1,4 +1,4 @@
-### Hi, I'm Arsenii 👋
+### Hi, I'm Arseniy 👋
 
 Software engineer from Ukraine. I build web, mobile and backend products, and tooling for AI coding agents.
 
