@@ -1,9 +1,10 @@
 ### Hi, I'm Arsenii 👋
 
-Software engineer from Ukraine. I build web, mobile and backend products, and tooling for AI coding agents.
+Software engineer from Ukraine. I build mobile and web apps, and tooling for AI coding agents.
 
-- 🏭 Building an ERP: NestJS, PostgreSQL, Next.js and an integration API for an online store
 - 📱 Shipping React Native / Expo apps to the App Store and Google Play, like [Dragon's Gift](https://apps.apple.com/app/id6759182090)
+- 🧪 Main QA and React Native development for [Teach Space](https://www.teachspace.app/), a tutoring app for iOS, Android and iPad
+- 🏭 Building an ERP: NestJS, PostgreSQL, Next.js and an integration API for an online store
 - 🤖 Building Claude Code plugins and skills that take a ticket to a reviewed, validated PR
 
 **Stack:** TypeScript · React · Next.js · React Native / Expo · NestJS · PostgreSQL · Playwright · Docker · GitHub Actions
