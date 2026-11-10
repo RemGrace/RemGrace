@@ -15,7 +15,5 @@ Software engineer from Ukraine. I build mobile and web apps, and tooling for AI 
 |---|---|
 | [rem-sdlc](https://github.com/RemGrace/rem-sdlc) | Claude Code / Codex plugin: gated ticket → PR cycle with Playwright validation, demo video and multi-agent review |
 | [onenote-md-sync](https://github.com/RemGrace/onenote-md-sync) | Scheduled sync of a SharePoint OneNote notebook into a Markdown / Obsidian git vault |
-| [any2md](https://github.com/RemGrace/any2md) | Rust CLI: web pages, PDF, images (OCR) and audio → Markdown |
-| [phone-mic](https://github.com/RemGrace/phone-mic) | In planning: turn your phone into a microphone for any Bluetooth speaker (React Native / Expo) |
 
 📫 [LinkedIn](https://www.linkedin.com/in/remgrace) · [Telegram](https://t.me/g_arseniy) · lrforrg@gmail.com
